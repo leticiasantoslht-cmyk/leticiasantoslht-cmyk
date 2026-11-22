@@ -20,6 +20,10 @@ Protótipo de app mobile para controle e auditoria de estoque de uma loja de mes
 criado a partir de uma visita técnica à empresa. Mostra a acuracidade do estoque e as rupturas por prioridade.
 🔗 [Ver protótipo](https://leticiasantoslht-cmyk.github.io/projeto-rafimex/)
 
+### [Modelagem de Banco de Dados — Rafimex](https://github.com/leticiasantoslht-cmyk/rafimex-modelagem-banco-de-dados)
+Projeto acadêmico em grupo: levantamento de requisitos e regras de negócio, modelo conceitual, DER e dicionário de dados
+para o sistema de vendas, crédito e estoque da Rafimex (MySQL 8), com foco em LGPD e numa trava preventiva para cadastros desatualizados.
+
 ## 📈 Estatísticas
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiasantoslht-cmyk&show_icons=true&theme=transparent&hide_border=true&locale=pt-br)
